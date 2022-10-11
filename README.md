@@ -1,2 +1,2 @@
-# ınstagram-clone-calısması
+# ınstagram-clone-calısması.
 bootstrep eğitimi Ödev-2
