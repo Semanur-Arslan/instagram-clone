@@ -1,2 +1,2 @@
-# -nstagram-clone-cal-smas-
+# ınstagram-clone-calısması
 bootstrep eğitimi Ödev-2
