@@ -1,3 +1,3 @@
 # ınstagram-clone
-bootstrap eğitimi Ödev-2
-## Patika.dev linkim : https://app.patika.dev/semanurarslan
+bootstrap homework-2
+## Patika.dev : https://app.patika.dev/semanurarslan
